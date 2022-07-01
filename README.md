@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jobanpreet Singh</h1>
-<h3 align="center">A full stack developer from Winnipeg,Canada</h3>
+<h3 align="center">A Full Stack Developer from Winnipeg,Canada</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
