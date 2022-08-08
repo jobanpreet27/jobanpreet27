@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [jobanpreet.ca](jobanpreet.ca)
+- 👨‍💻 All of my projects are available at [jobanpreet.ca](https://jobanpreet.ca)
 
 - 💬 Ask me about **React, AWS, Tailwind**
 
